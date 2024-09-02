@@ -1,7 +1,7 @@
 # SMS Spam Predictor
 
 
-##Project Overview:
+## Project Overview:
 The SMS Spam Predictor is a machine learning project designed to classify SMS messages as either spam or ham (non-spam). This project utilizes natural language processing (NLP) techniques to preprocess text data and machine learning algorithms to predict whether a given message is spam.
 
 ## Features
@@ -11,7 +11,7 @@ The SMS Spam Predictor is a machine learning project designed to classify SMS me
 4)Model Evaluation: Assessing the model's performance using standard metrics.
 
 
-##Requirements
+## Requirements
 To run this project, you need the following Python libraries:
 
 1)pandas
@@ -41,7 +41,7 @@ The project is structured as follows:
 
 7) Predictions: The model is used to predict the class labels of unseen messages.
 
-##Results:
+## Results:
 The trained model is evaluated on the test set, and the performance metrics are displayed in the notebook. The model can be used to classify new SMS messages as spam or ham.
 
    
